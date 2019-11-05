@@ -1,5 +1,5 @@
 # Interview Test
-A basic test for candidates interested in _Server Side_ development.
+Test for candidates interested in _Server Side_ development.
 
 ## INSTRUCTIONS
 
