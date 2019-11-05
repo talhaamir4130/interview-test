@@ -1,0 +1,20 @@
+{
+  "name": "interview-test",
+  "version": "1.0.0",
+  "description": "A test for candidates applying for a server-side development job",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interview",
+    "candidates",
+    "test",
+    "job",
+    "server",
+    "side",
+    "nodejs"
+  ],
+  "author": "Raheej Ahmed Sajid",
+  "license": "ISC"
+}

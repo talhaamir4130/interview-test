@@ -1,0 +1,202 @@
+[
+  {
+    "productName": "Pastel Blue Boxes",
+    "productCollections": "{\"F61F0DF7-69E8-4D2A-B377-32BB6D93132A\":{\"name\":\"Custom Shirts\",\"id\":\"F61F0DF7-69E8-4D2A-B377-32BB6D93132A\",\"url\":\"custom-shirts\",\"image\":\"\",\"priority\":2}}"
+  },
+  {
+    "productName": "Pink Blue Structured",
+    "productCollections": "{\"F61F0DF7-69E8-4D2A-B377-32BB6D93132A\":{\"name\":\"Custom Shirts\",\"id\":\"F61F0DF7-69E8-4D2A-B377-32BB6D93132A\",\"url\":\"custom-shirts\",\"image\":\"\",\"priority\":2},\"5572B85E-4625-46DE-9246-035AC2C2636C\":{\"name\":\"New\",\"id\":\"5572B85E-4625-46DE-9246-035AC2C2636C\",\"priority\":3}}"
+  },
+  {
+    "productName": "Blue Micro Structured Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"priority\":2},\"8CAF87E1-C857-44EF-8D4F-24633C5FBA9C\":{\"name\":\"Solids\",\"id\":\"8CAF87E1-C857-44EF-8D4F-24633C5FBA9C\",\"url\":\"solids\",\"priority\":3}}"
+  },
+  {
+    "productName": "Dark Mauve Mini Grid Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"B74983F2-D276-413F-B678-51A2F125B2F2\":{\"name\":\"Check, Plaid, Gingham\",\"id\":\"B74983F2-D276-413F-B678-51A2F125B2F2\",\"priority\":3}}"
+  },
+  {
+    "productName": "Coffee Checkered Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"priority\":2},\"B74983F2-D276-413F-B678-51A2F125B2F2\":{\"name\":\"Check, Plaid, Gingham\",\"id\":\"B74983F2-D276-413F-B678-51A2F125B2F2\",\"priority\":3}}"
+  },
+  {
+    "productName": "Grey Blurred Check Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"B74983F2-D276-413F-B678-51A2F125B2F2\":{\"name\":\"Check, Plaid, Gingham\",\"id\":\"B74983F2-D276-413F-B678-51A2F125B2F2\",\"image\":\"\",\"priority\":3}}"
+  },
+  {
+    "productName": "Grey On Black Pinstripe Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"E4297C26-E96B-4B2D-90B1-CB75A43552C7\":{\"name\":\"Stripes\",\"id\":\"E4297C26-E96B-4B2D-90B1-CB75A43552C7\",\"url\":\"stripes\",\"image\":\"\",\"priority\":3}}"
+  },
+  {
+    "productName": "Fine Blue On White Tartan Check Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"priority\":2},\"B74983F2-D276-413F-B678-51A2F125B2F2\":{\"name\":\"Check, Plaid, Gingham\",\"id\":\"B74983F2-D276-413F-B678-51A2F125B2F2\",\"priority\":3}}"
+  },
+  {
+    "productName": "Black White Stripes Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"E4297C26-E96B-4B2D-90B1-CB75A43552C7\":{\"name\":\"Stripes\",\"id\":\"E4297C26-E96B-4B2D-90B1-CB75A43552C7\",\"url\":\"stripes\",\"image\":\"\",\"priority\":3}}"
+  },
+  {
+    "productName": "Blue Chinese Jacquard Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"DD046EDC-47F9-466E-9819-2FA08534B296\":{\"name\":\"Prints & Self Patterns\",\"id\":\"DD046EDC-47F9-466E-9819-2FA08534B296\",\"image\":\"\",\"priority\":3}}"
+  },
+  {
+    "productName": "Pastel Blue Boxes Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"image\":\"\",\"priority\":2},\"DD046EDC-47F9-466E-9819-2FA08534B296\":{\"name\":\"Prints & Self Patterns\",\"id\":\"DD046EDC-47F9-466E-9819-2FA08534B296\",\"priority\":3}}"
+  },
+  {
+    "productName": "Pink Blue Structured Shirt",
+    "productCollections": "{\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\":{\"name\":\"All Shirts\",\"id\":\"B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8\",\"url\":\"all-shirts\",\"priority\":2},\"8CAF87E1-C857-44EF-8D4F-24633C5FBA9C\":{\"name\":\"Solids\",\"id\":\"8CAF87E1-C857-44EF-8D4F-24633C5FBA9C\",\"url\":\"solids\",\"priority\":3},\"DD046EDC-47F9-466E-9819-2FA08534B296\":{\"name\":\"Prints & Self Patterns\",\"id\":\"DD046EDC-47F9-466E-9819-2FA08534B296\",\"priority\":3}}"
+  },
+  {
+    "productName": "Diva Style Blue",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"image\":\"\",\"priority\":1},\"4A5AA1CA-92F2-46FD-9D67-572200EBC80C\":{\"name\":\"Women Destination Winter 19 Dungarees & Jump Suit\",\"id\":\"4A5AA1CA-92F2-46FD-9D67-572200EBC80C\",\"image\":\"\",\"priority\":2}}"
+  },
+  {
+    "productName": "Triple Georgette | Red Romance",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Triple Georgette | Happy Hour",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Triple Georgette | Pumpkins",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Triple Georgette | Vibrant Vibes",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Lucky Yellow",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | White Daisy",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Sunny Warm",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Flower Bouquet",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Polka Dots",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Black Passion",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Snuggle Time",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Linen Shirt | Fresh Red",
+    "productCollections": "{\"255FFF02-7ADB-4CCF-8870-168C4382AD28\":{\"id\":\"255FFF02-7ADB-4CCF-8870-168C4382AD28\",\"name\":\"Fashion\",\"url\":\"fashion\"}}"
+  },
+  {
+    "productName": "Scarlet Biker Red",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"priority\":1},\"37DCDF34-0C45-46C9-9063-B00B5BCC6FD4\":{\"name\":\"Women Destination Winter 19 Jackets & Outerwear\",\"id\":\"37DCDF34-0C45-46C9-9063-B00B5BCC6FD4\",\"url\":\"women-destination-winter-19-jackets-outerwear\",\"priority\":2}}"
+  },
+  {
+    "productName": "Coke Glam Red",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"priority\":1},\"0B5F2B26-56BC-43EB-8A3C-3FF607FD079A\":{\"name\":\"Women Destination Winter 19 Tees\",\"id\":\"0B5F2B26-56BC-43EB-8A3C-3FF607FD079A\",\"url\":\"women-destination-winter-19-tees\",\"priority\":2},\"50EF7D7C-8899-4FC0-B38B-03A4F05EEE89\":{\"name\":\"Women Destination Winter 19 Shirts & Tops\",\"id\":\"50EF7D7C-8899-4FC0-B38B-03A4F05EEE89\",\"url\":\"women-destination-winter-19-shirts-tops\",\"priority\":2}}"
+  },
+  {
+    "productName": "Egyptian Glam Burgundy",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"priority\":1},\"AF508F72-CC95-4F73-9736-CBA65A710538\":{\"name\":\"Women Destination Winter 19 Sweaters\",\"id\":\"AF508F72-CC95-4F73-9736-CBA65A710538\",\"url\":\"women-destination-winter-19-sweaters\",\"priority\":2}}"
+  },
+  {
+    "productName": "Sports Star Navy",
+    "productCollections": "{\"2D7CD98A-1D8B-4B3A-904D-6634AB72B084\":{\"name\":\"Men Destination Winter 19\",\"id\":\"2D7CD98A-1D8B-4B3A-904D-6634AB72B084\",\"url\":\"men-destination-winter-19\",\"priority\":1},\"B390B273-FEE5-415B-B122-32F2236F10F0\":{\"name\":\"Men Destination Winter 19 Jackets & Outerwear\",\"id\":\"B390B273-FEE5-415B-B122-32F2236F10F0\",\"url\":\"men-destination-winter-19-jackets-outerwear\",\"priority\":2}}"
+  },
+  {
+    "productName": "Fusia Dreams Magenta",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"image\":\"\",\"priority\":1},\"CDB85C51-769F-456F-A4BF-E3BCE1A0DBAB\":{\"name\":\"Women Destination Winter 19 Shoes\",\"id\":\"CDB85C51-769F-456F-A4BF-E3BCE1A0DBAB\",\"url\":\"women-destination-winter-19-shoes\",\"image\":\"\",\"priority\":2},\"322DB9F6-3798-4B0A-97ED-59CC3D552AD8\":{\"name\":\"All Shoes\",\"id\":\"322DB9F6-3798-4B0A-97ED-59CC3D552AD8\",\"url\":\"all-shoes\",\"image\":\"\",\"priority\":2},\"1E520DDA-11D9-4601-A224-64075725B18B\":{\"name\":\"Women Shoes\",\"id\":\"1E520DDA-11D9-4601-A224-64075725B18B\",\"url\":\"women-shoes\",\"image\":\"\",\"priority\":2},\"2B4B834F-84B6-4D3C-9D07-89538481D389\":{\"name\":\"Women All Accessories\",\"id\":\"2B4B834F-84B6-4D3C-9D07-89538481D389\",\"url\":\"women-all-accessories\",\"image\":\"\",\"priority\":2}}"
+  },
+  {
+    "productName": "Future Toe Black",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"priority\":1},\"CDB85C51-769F-456F-A4BF-E3BCE1A0DBAB\":{\"name\":\"Women Destination Winter 19 Shoes\",\"id\":\"CDB85C51-769F-456F-A4BF-E3BCE1A0DBAB\",\"url\":\"women-destination-winter-19-shoes\",\"priority\":2},\"322DB9F6-3798-4B0A-97ED-59CC3D552AD8\":{\"name\":\"All Shoes\",\"id\":\"322DB9F6-3798-4B0A-97ED-59CC3D552AD8\",\"url\":\"all-shoes\",\"priority\":2},\"1E520DDA-11D9-4601-A224-64075725B18B\":{\"name\":\"Women Shoes\",\"id\":\"1E520DDA-11D9-4601-A224-64075725B18B\",\"url\":\"women-shoes\",\"priority\":2},\"2B4B834F-84B6-4D3C-9D07-89538481D389\":{\"name\":\"Women All Accessories\",\"id\":\"2B4B834F-84B6-4D3C-9D07-89538481D389\",\"url\":\"women-all-accessories\",\"priority\":2}}"
+  },
+  {
+    "productName": "Rainbow Glam Multi",
+    "productCollections": "{\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\":{\"name\":\"Women Destination Winter 19\",\"id\":\"CAD77F2B-893A-45A9-9F47-B0AE78DEE90D\",\"url\":\"women-destination-winter-19\",\"image\":\"\",\"priority\":1},\"33C6A826-A05F-490C-A936-51BA85F8BC26\":{\"name\":\"Women Destination Winter 19 Bags\",\"id\":\"33C6A826-A05F-490C-A936-51BA85F8BC26\",\"url\":\"women-destination-winter-19-bags\",\"image\":\"\",\"priority\":2},\"AA4169B6-B3C0-4DD0-86AC-72165C6344AF\":{\"name\":\"Women Bags\",\"id\":\"AA4169B6-B3C0-4DD0-86AC-72165C6344AF\",\"url\":\"women-bags\",\"image\":\"\",\"priority\":2},\"2B4B834F-84B6-4D3C-9D07-89538481D389\":{\"name\":\"Women All Accessories\",\"id\":\"2B4B834F-84B6-4D3C-9D07-89538481D389\",\"url\":\"women-all-accessories\",\"image\":\"\",\"priority\":2}}"
+  },
+  {
+    "productName": "Red Color Formal Hand Bags P08480",
+    "productCollections": "{\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\":{\"name\":\"Hand Bags\",\"id\":\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\",\"url\":\"hand-bags\",\"priority\":1}}"
+  },
+  {
+    "productName": "Golden Color Formal Hand Bags P08480",
+    "productCollections": "{\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\":{\"name\":\"Hand Bags\",\"id\":\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\",\"url\":\"hand-bags\",\"priority\":1}}"
+  },
+  {
+    "productName": "Black Color Formal Hand Bags P08480",
+    "productCollections": "{\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\":{\"name\":\"Hand Bags\",\"id\":\"9D909152-AF4A-40B5-8FFE-A20AEE7ED911\",\"url\":\"hand-bags\",\"priority\":1}}"
+  },
+  {
+    "productName": "CHAMPAGNE Color Girls Long Shoes KD8004",
+    "productCollections": "{\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\":{\"name\":\"Girls\",\"id\":\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\",\"url\":\"girls\",\"priority\":1}}"
+  },
+  {
+    "productName": "Gun Color Girls Long Shoes KD8004",
+    "productCollections": "{\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\":{\"name\":\"Girls\",\"id\":\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\",\"url\":\"girls\",\"priority\":1}}"
+  },
+  {
+    "productName": "Navy Color Children Girls Long Shoes KD8003",
+    "productCollections": "{\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\":{\"name\":\"Girls\",\"id\":\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\",\"url\":\"girls\",\"priority\":1}}"
+  },
+  {
+    "productName": "Pink Color Children Girls Long Shoes KD8003",
+    "productCollections": "{\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\":{\"name\":\"Girls\",\"id\":\"E5DE70DC-89A6-4154-A19D-19CE3D36C793\",\"url\":\"girls\",\"priority\":1}}"
+  },
+  {
+    "productName": "Navy Color Children Boys Long Shoes KD8002",
+    "productCollections": "{\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\":{\"name\":\"Boys\",\"id\":\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\",\"url\":\"boys\",\"priority\":1}}"
+  },
+  {
+    "productName": "Tan Color Boys Long Shoes KD8001",
+    "productCollections": "{\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\":{\"name\":\"Boys\",\"id\":\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\",\"url\":\"boys\",\"priority\":1}}"
+  },
+  {
+    "productName": "Grey Color Boys Long Shoes KD8001",
+    "productCollections": "{\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\":{\"name\":\"Boys\",\"id\":\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\",\"url\":\"boys\",\"priority\":1}}"
+  },
+  {
+    "productName": "Tan Color Boys Long Shoes KD8000",
+    "productCollections": "{\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\":{\"name\":\"Boys\",\"id\":\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\",\"url\":\"boys\",\"priority\":1}}"
+  },
+  {
+    "productName": "Navy Color Boys Long Shoes KD8000",
+    "productCollections": "{\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\":{\"name\":\"Boys\",\"id\":\"0EA6083D-E104-4568-ADFF-1A70C87E4FF5\",\"url\":\"boys\",\"priority\":1}}"
+  },
+  {
+    "productName": "Navy Color Stylo Baby Booties KD7012",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"priority\":1}}"
+  },
+  {
+    "productName": "Blue Color Stylo Baby Booties KD7012",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"priority\":1}}"
+  },
+  {
+    "productName": "Pink Color Stylo Baby Booties KD7011",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"priority\":1}}"
+  },
+  {
+    "productName": "Black Color Stylo Baby Booties KD7011",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"priority\":1}}"
+  },
+  {
+    "productName": "Khaki Color Stylo Baby Booties KD7010",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"image\":\"\",\"priority\":1}}"
+  },
+  {
+    "productName": "Navy Color Stylo Baby Booties KD7010",
+    "productCollections": "{\"F3138701-619E-47F7-B4B4-310230EA812C\":{\"name\":\"Babies\",\"id\":\"F3138701-619E-47F7-B4B4-310230EA812C\",\"url\":\"babies\",\"priority\":1}}"
+  }
+]
