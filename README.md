@@ -41,6 +41,8 @@ Test for candidates interested in _Server Side_ development.
 * Use _Express_ to setup the server.
 * There will be a million ways to do this, so the way you choose to do it
    will be looked at carefully.
+* Fork this repository, do your work, and once the code is done, share your
+   repository link in a reply to the original email.
 
  ## WHAT WE ARE LOOKING FOR
 * The _approach_ you take to solve the problems.
