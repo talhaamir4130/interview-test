@@ -1,0 +1,23 @@
+One of the challenges, anyone developing an e-commerce based app faces, is
+that an order cart has to be validated before it is considered to be a
+legitimate order and inserted into the database. This validation is extensive
+and thorough, in that it has to verify a number of things including: the cart
+items are actual products, the prices of the cart items are valid, the order
+total is valid, etc.
+
+In this question, we'll be focusing on one particular part of this cart
+validation journey; the validation of a cart item's ordered quantity. We have
+a specific amount of inventory for each product. We're receiving requests for
+Orders to be placed for the same products, by different users, at the same
+time. While validating the cart, we check if the ordered quantity is available
+for that particular product. And if there is, we let the order go through.
+
+Do you see any problems with this logic? If there is, mention that problem
+and also a fix or it. If there isn't, mention why.
+
+Be as thorough or as precise as you want. The only thing we're looking to
+gather from your answers is that it is clear enough for us to understand
+properly.
+
+ANSWER BELOW THIS LINE
+===============================================================================
