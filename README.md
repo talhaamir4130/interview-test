@@ -17,12 +17,12 @@ Test for candidates interested in _Server Side_ development.
 {
   productName: "Pastel Blue Boxes",
   productCollections: {
-    "F61F0DF7-69E8-4D2A-B377-32BB6D93132A": {
-	 name:"Custom Shirts",
-	 id:"F61F0DF7-69E8-4D2A-B377-32BB6D93132A",
-	 url:"custom-shirts",
-	 image:"",
-	 priority:2
+    "0B5F2B26-56BC-43EB-8A3C-3FF607FD079A": {
+	 name:"Women Destination Winter 19 Tees",
+	 id:"0B5F2B26-56BC-43EB-8A3C-3FF607FD079A",
+	 .
+	 .
+	 .
     }
   }
 }
