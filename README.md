@@ -8,18 +8,19 @@ Test for candidates interested in _Server Side_ development.
 * Example of a **Collection** object:
 ```javascript
 {
-  id: "0B5F2B26-56BC-43EB-8A3C-3FF607FD079A",
-  collectionName: "Women Destination Winter 19 Tees"
+  id: "77016869-136D-4FD3-9A96-06A3A3BB11AB",
+  collection_name: "Ready To Wear - Sale 2019"
 }
 ```
-* Example of a **Product** object (after `JSON.parse()`-ing `productCollections`):
+* Example of a **Product** object (after `JSON.parse()`-ing `product_collections`):
 ```javascript
 {
-  productName: "Pastel Blue Boxes",
-  productCollections: {
-    "0B5F2B26-56BC-43EB-8A3C-3FF607FD079A": {
-	 name:"Women Destination Winter 19 Tees",
-	 id:"0B5F2B26-56BC-43EB-8A3C-3FF607FD079A",
+  id: "EDD77672-58AC-499A-9C0C-651401CA5BDE",
+  product_name: "Lime Ridge",
+  product_collections: {
+    "77016869-136D-4FD3-9A96-06A3A3BB11AB": {
+	 name:"Ready To Wear - Sale 2019",
+	 id:"77016869-136D-4FD3-9A96-06A3A3BB11AB",
 	 .
 	 .
 	 .

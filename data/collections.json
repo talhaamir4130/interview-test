@@ -1,86 +1,78 @@
 [
-  {
-    "id": "0B5F2B26-56BC-43EB-8A3C-3FF607FD079A",
-    "collectionName": "Women Destination Winter 19 Tees"
-  },
-  {
-    "id": "1E520DDA-11D9-4601-A224-64075725B18B",
-    "collectionName": "Women Shoes"
-  },
-  {
-    "id": "2B4B834F-84B6-4D3C-9D07-89538481D389",
-    "collectionName": "Women All Accessories"
-  },
-  {
-    "id": "2D7CD98A-1D8B-4B3A-904D-6634AB72B084",
-    "collectionName": "Men Destination Winter 19"
-  },
-  {
-    "id": "322DB9F6-3798-4B0A-97ED-59CC3D552AD8",
-    "collectionName": "All Shoes"
-  },
-  {
-    "id": "33C6A826-A05F-490C-A936-51BA85F8BC26",
-    "collectionName": "Women Destination Winter 19 Bags"
-  },
-  {
-    "id": "37DCDF34-0C45-46C9-9063-B00B5BCC6FD4",
-    "collectionName": "Women Destination Winter 19 Jackets & Outerwear"
-  },
-  {
-    "id": "4A5AA1CA-92F2-46FD-9D67-572200EBC80C",
-    "collectionName": "Women Destination Winter 19 Dungarees & Jump Suit"
-  },
-  {
-    "id": "50EF7D7C-8899-4FC0-B38B-03A4F05EEE89",
-    "collectionName": "Women Destination Winter 19 Shirts & Tops"
-  },
-  {
-    "id": "5572B85E-4625-46DE-9246-035AC2C2636C",
-    "collectionName": "New"
-  },
-  {
-    "id": "8CAF87E1-C857-44EF-8D4F-24633C5FBA9C",
-    "collectionName": "Solids"
-  },
-  {
-    "id": "AA4169B6-B3C0-4DD0-86AC-72165C6344AF",
-    "collectionName": "Women Bags"
-  },
-  {
-    "id": "AF508F72-CC95-4F73-9736-CBA65A710538",
-    "collectionName": "Women Destination Winter 19 Sweaters"
-  },
-  {
-    "id": "B390B273-FEE5-415B-B122-32F2236F10F0",
-    "collectionName": "Men Destination Winter 19 Jackets & Outerwear"
-  },
-  {
-    "id": "B74983F2-D276-413F-B678-51A2F125B2F2",
-    "collectionName": "Check, Plaid, Gingham"
-  },
-  {
-    "id": "B77BA678-CE8A-4FB3-8A8C-CECF2BA48FB8",
-    "collectionName": "All Shirts"
-  },
-  {
-    "id": "CAD77F2B-893A-45A9-9F47-B0AE78DEE90D",
-    "collectionName": "Women Destination Winter 19"
-  },
-  {
-    "id": "CDB85C51-769F-456F-A4BF-E3BCE1A0DBAB",
-    "collectionName": "Women Destination Winter 19 Shoes"
-  },
-  {
-    "id": "DD046EDC-47F9-466E-9819-2FA08534B296",
-    "collectionName": "Prints & Self Patterns"
-  },
-  {
-    "id": "E4297C26-E96B-4B2D-90B1-CB75A43552C7",
-    "collectionName": "Stripes"
-  },
-  {
-    "id": "F61F0DF7-69E8-4D2A-B377-32BB6D93132A",
-    "collectionName": "Custom Shirts"
-  }
+	{
+		"id": "1C2B6065-D4C5-4147-A028-6FD142F8879E",
+		"collection_name": "Menswear All"
+	},
+	{
+		"id": "1DB33E6A-2BB4-4988-9E04-BB976FCEEC8B",
+		"collection_name": "Ready to Wear All"
+	},
+	{
+		"id": "207509AF-806E-4A32-81D5-2E2CFA2A132A",
+		"collection_name": "Menswear Bottoms"
+	},
+	{
+		"id": "3EE772BF-D8A4-4FDF-9C7B-50E8CDF04DAE",
+		"collection_name": "50 Off"
+	},
+	{
+		"id": "452F1CD6-8A31-47E3-A286-5B894F676264",
+		"collection_name": "End of Season - Sale"
+	},
+	{
+		"id": "57D4778E-A7DD-4B9A-AC18-153272907C24",
+		"collection_name": "Ready to Wear Embroidered Solids"
+	},
+	{
+		"id": "6E4AFCC3-29EE-4403-820B-14AE56319C2E",
+		"collection_name": "Menswear - Sale 2019"
+	},
+	{
+		"id": "77016869-136D-4FD3-9A96-06A3A3BB11AB",
+		"collection_name": "Ready To Wear - Sale 2019"
+	},
+	{
+		"id": "7B81AC50-962F-4DEE-BDF2-C36FFA78042D",
+		"collection_name": "Ready To Wear - Summer-19 V1"
+	},
+	{
+		"id": "7C2ED083-7F51-4F64-8A70-3E87D98BF929",
+		"collection_name": "Accessories -Sale 2019"
+	},
+	{
+		"id": "82052FC6-13A7-4193-ACC6-122C36813FB9",
+		"collection_name": "Ready to Wear Embroidered Printed"
+	},
+	{
+		"id": "A4332A79-BFFA-4B4E-81FC-06888AA8B5F5",
+		"collection_name": "Ladies Bottom Cotton Pants"
+	},
+	{
+		"id": "A6FB077A-24D3-4617-8292-B37D260E961B",
+		"collection_name": "Ladies Bottom - Sale 2019"
+	},
+	{
+		"id": "AF69D064-DDB6-4424-B8FC-E693C010E1BF",
+		"collection_name": "All Products"
+	},
+	{
+		"id": "C5C58D82-554F-4ECF-B295-6B61C63A8D51",
+		"collection_name": "All Items - Sale 2019"
+	},
+	{
+		"id": "D2E99C77-0094-46E7-8E89-8CAC917B8813",
+		"collection_name": "Ladies Bottom Silk Pants"
+	},
+	{
+		"id": "E894BF91-1AAF-4EA3-B70C-84518A7F516B",
+		"collection_name": "Ladies Bottom Tights"
+	},
+	{
+		"id": "ECFDC963-A60A-45C4-95BB-9544F4975ECB",
+		"collection_name": "Ladies Bottoms All"
+	},
+	{
+		"id": "F8E5EC07-A26B-4AFF-8ACF-B795312CFC26",
+		"collection_name": "70 Off"
+	}
 ]
