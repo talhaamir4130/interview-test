@@ -46,5 +46,5 @@ Test for candidates interested in _Server Side_ development.
 
  ## WHAT WE ARE LOOKING FOR
 * The _approach_ you take to solve the problems.
-* The way you _code_.
+* The way you _code_ (this includes coding practices, standards, formatting, etc).
 * _Git_ usage.
