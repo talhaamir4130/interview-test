@@ -21,3 +21,15 @@ properly.
 
 ANSWER BELOW THIS LINE
 ===============================================================================
+
+Accessing/changing a shared resource simultaniosly always creates problems. This 
+can be prevented by using mutual exclusion techiniques.
+
+Here in this example, the shared resource is product's quantity and therefore if
+we suppose that two customers are placing order at the same time and intital value
+of products avaible be 5.
+Product quantity is showing 5 on both clients machines.
+First person orders 4 products and second person orders 3 and the system sends the
+request to minus 5 and minus 3 quantity from total. 
+The cart will display 4 and 3 quantity respectively but in actuall the quantity 
+is now gone below 0 (-2) which is a problem. 
