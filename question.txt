@@ -30,6 +30,6 @@ we suppose that two customers are placing order at the same time and intital val
 of products avaible be 5.
 Product quantity is showing 5 on both clients machines.
 First person orders 4 products and second person orders 3 and the system sends the
-request to minus 5 and minus 3 quantity from total. 
-The cart will display 4 and 3 quantity respectively but in actuall the quantity 
-is now gone below 0 (-2) which is a problem. 
+request to minus 4 and minus 3 quantity from total. 
+The cart will display 4 and 3 quantity respectively on clients machines but in 
+actuall the quantity is now gone below 0 (-2) which is a problem. 
